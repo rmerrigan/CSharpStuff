@@ -1,0 +1,14 @@
+D:\NaughtyWords\NaughtyWords\bin\Debug\NaughtyWords.exe.config
+D:\NaughtyWords\NaughtyWords\bin\Debug\NaughtyWords.exe
+D:\NaughtyWords\NaughtyWords\bin\Debug\NaughtyWords.pdb
+D:\NaughtyWords\NaughtyWords\obj\Debug\NaughtyWords.csprojResolveAssemblyReference.cache
+D:\NaughtyWords\NaughtyWords\obj\Debug\NaughtyWords.csproj.CoreCompileInputs.cache
+D:\NaughtyWords\NaughtyWords\obj\Debug\NaughtyWords.exe
+D:\NaughtyWords\NaughtyWords\obj\Debug\NaughtyWords.pdb
+E:\NaughtyWords\NaughtyWords\bin\Debug\NaughtyWords.exe.config
+E:\NaughtyWords\NaughtyWords\bin\Debug\NaughtyWords.exe
+E:\NaughtyWords\NaughtyWords\bin\Debug\NaughtyWords.pdb
+E:\NaughtyWords\NaughtyWords\obj\Debug\NaughtyWords.csprojResolveAssemblyReference.cache
+E:\NaughtyWords\NaughtyWords\obj\Debug\NaughtyWords.csproj.CoreCompileInputs.cache
+E:\NaughtyWords\NaughtyWords\obj\Debug\NaughtyWords.exe
+E:\NaughtyWords\NaughtyWords\obj\Debug\NaughtyWords.pdb
